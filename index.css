@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+div.info-body{
+    margin-top: 6em;
+}
+div#info{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    padding: 0.25em 0.5em;
+    margin: 0.15em;
+}
+#credits{
+    text-decoration-style: dashed;
+}
